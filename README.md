@@ -4,6 +4,7 @@ Brincando com o [Fluent UI da Microsoft](https://developer.microsoft.com/pt-BR/f
 
 PS.: **O projeto se destina a testar os componentes do framework.**
 
+![print](https://github.com/luanyata/Word-React/blob/dev/src/assets/print.png?raw=true)
 
 ### Rodando o Projeto
 
